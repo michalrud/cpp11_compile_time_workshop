@@ -8,7 +8,7 @@ Currently not finished.
 
 1. nullptr :white_check_mark:
 2. auto and range-based for loop :white_medium_square:
-3. std::begin, std::end :white_medium_square:
+3. std::begin, std::end :white_check_mark:
 4. unified initialization :white_medium_square:
 5. extern templates :white_medium_square:
 6. generalized constant expressions :white_medium_square:

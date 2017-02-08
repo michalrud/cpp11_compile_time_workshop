@@ -1,17 +1,16 @@
+#include "external_lib.hpp"
 #include <iostream>
-
-void print(int value) {
-	std::cout << "Int: " << value << std::endl;
-}
-
-void print(void* value) {
-	std::cout << "Pointer: " << value << std::endl;
-}
+#include <vector>
 
 int main() {
-	void* ptr;
-	print(9);
-	print(ptr);
-	print(NULL);
+	const size_t ARRAY_SIZE = sizeof(MY_RANDOM_CONSTANT)/sizeof(unsigned int);
+	std::vector<unsigned int> myconst(ARRAY_SIZE);
+	for (size_t i = 0; i < ARRAY_SIZE; ++i)
+	{
+		myconst[i] = MY_RANDOM_CONSTANT[i];
+	}
+	auto minmax = std::minmax_element(myconst.begin(), myconst.end());
+	std::cout << "Minimum: " << *minmax.first << std::endl;
+	std::cout << "Maximum: " << *minmax.second << std::endl;
 	return 0;
 }

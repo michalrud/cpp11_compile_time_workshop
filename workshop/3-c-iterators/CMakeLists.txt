@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(nullptr_example CXX)
+project(c-iterators CXX)
 
 file(GLOB sources
     "src/*.hpp"
