@@ -7,9 +7,9 @@ Currently not finished.
 ## Planned topics
 
 1. nullptr :white_check_mark:
-2. auto and range-based for loop :white_medium_square:
+2. auto and range-based for loop :white_check_mark:
 3. std::begin, std::end :white_check_mark:
-4. unified initialization :white_medium_square:
+4. unified initialization :white_check_mark:
 5. extern templates :white_medium_square:
 6. generalized constant expressions :white_medium_square:
 7. variadic templates :white_medium_square:
@@ -21,3 +21,14 @@ Currently not finished.
 13. default and delete :white_medium_square:
 14. strongly-typed enums :white_medium_square:
 15. alias templates :white_medium_square:
+
+## Running
+
+Standard CMake way:
+
+```bash
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make run
+```
