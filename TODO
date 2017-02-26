@@ -1,0 +1,11 @@
+ ✔ extern templates @done (17-02-26 19:19)
+ ✔ generalized constant expressions @done (17-02-26 20:12)
+ ☐ variadic templates
+ ☐ initializers list
+ ☐ alternative function syntax
+ ☐ decltype
+ ✔ static assertions @done (17-02-26 20:12)
+ ☐ override and final
+ ☐ default and delete
+ ☐ strongly-typed enums
+ ☐ alias templates

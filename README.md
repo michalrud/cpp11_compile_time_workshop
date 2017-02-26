@@ -2,24 +2,24 @@
 
 This will be a set of workshop exercises for C++11 Compile Time Features workshop.
 
-Currently not finished.
+Currently not finished. Check the TODO file for what's done and what's still left to do.
 
 ## Planned topics
 
-1. nullptr :white_check_mark:
-2. auto and range-based for loop :white_check_mark:
-3. std::begin, std::end :white_check_mark:
-4. unified initialization :white_check_mark:
-5. extern templates :white_check_mark:
-6. generalized constant expressions and static assertions :white_check_mark:
-7. variadic templates :white_medium_square:
-8. initializers list :white_medium_square:
-9. alternative function syntax :white_medium_square:
-10. decltype :white_medium_square:
-12. override and final :white_medium_square:
-13. default and delete :white_medium_square:
-14. strongly-typed enums :white_medium_square:
-15. alias templates :white_medium_square:
+1. nullptr
+2. auto and range-based for loop
+3. std::begin, std::end
+4. unified initialization
+5. extern templates
+6. generalized constant expressions and static assertions
+7. variadic templates
+8. initializers list
+9. alternative function syntax
+10. decltype
+12. override and final
+13. default and delete
+14. strongly-typed enums
+15. alias templates
 
 ## Running
 
