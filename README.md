@@ -10,7 +10,7 @@ Currently not finished.
 2. auto and range-based for loop :white_check_mark:
 3. std::begin, std::end :white_check_mark:
 4. unified initialization :white_check_mark:
-5. extern templates :white_medium_square:
+5. extern templates :white_check_mark:
 6. generalized constant expressions :white_medium_square:
 7. variadic templates :white_medium_square:
 8. initializers list :white_medium_square:
