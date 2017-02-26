@@ -11,12 +11,11 @@ Currently not finished.
 3. std::begin, std::end :white_check_mark:
 4. unified initialization :white_check_mark:
 5. extern templates :white_check_mark:
-6. generalized constant expressions :white_medium_square:
+6. generalized constant expressions and static assertions :white_check_mark:
 7. variadic templates :white_medium_square:
 8. initializers list :white_medium_square:
 9. alternative function syntax :white_medium_square:
 10. decltype :white_medium_square:
-11. static assertions :white_medium_square:
 12. override and final :white_medium_square:
 13. default and delete :white_medium_square:
 14. strongly-typed enums :white_medium_square:
