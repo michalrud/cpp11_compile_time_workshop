@@ -1,7 +1,11 @@
+ ✔ nullptr @done (17-02-26 22:03)
+ ✔ auto and range-based for loop @done (17-02-26 22:03)
+ ✔ std::begin, std::end @done (17-02-26 22:03)
+ ✔ unified initialization @done (17-02-26 22:03)
  ✔ extern templates @done (17-02-26 19:19)
  ✔ generalized constant expressions @done (17-02-26 20:12)
  ✔ variadic templates @done (17-02-26 21:52)
- ☐ initializers list
+ ✔ initializers list @done (17-02-27 21:16)
  ☐ alternative function syntax
  ☐ decltype
  ✔ static assertions @done (17-02-26 20:12)
