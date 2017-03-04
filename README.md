@@ -14,12 +14,11 @@ Currently not finished. Check the TODO file for what's done and what's still lef
 6. generalized constant expressions and static assertions
 7. variadic templates
 8. initializers list
-9. alternative function syntax
-10. decltype
-12. override and final
-13. default and delete
-14. strongly-typed enums
-15. alias templates
+9. alternative function syntax + decltype
+11. override and final
+12. default and delete
+13. strongly-typed enums
+14. alias templates
 
 ## Running
 
