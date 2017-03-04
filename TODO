@@ -6,7 +6,7 @@
  ✔ generalized constant expressions @done (17-02-26 20:12)
  ✔ variadic templates @done (17-02-26 21:52)
  ✔ initializers list @done (17-02-27 21:16)
- ☐ alternative function syntax
+ ✔ alternative function syntax @done (17-03-04 14:29)
  ☐ decltype
  ✔ static assertions @done (17-02-26 20:12)
  ☐ override and final
