@@ -10,6 +10,6 @@
  ✔ decltype @done (17-03-04 19:25)
  ✔ static assertions @done (17-02-26 20:12)
  ✔ override and final @done (17-03-04 21:30)
- ☐ default and delete
+ ✔ default and delete @done (17-03-05 18:22)
  ✔ strongly-typed enums @done (17-03-04 21:52)
- ☐ alias templates
+ ✔ alias templates @done (17-03-05 18:22)
